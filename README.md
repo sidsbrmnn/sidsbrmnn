@@ -10,7 +10,7 @@ I'm Siddharth Subramanian, a full-stack developer currently pursuing BE in Infor
 
 - 🌱 I'm learning [Golang](https://golang.org)
 
-- 💻 My recent projects: [Bolo Meet](https://bolomeet.com)
+- 💻 My recent projects: [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://tachyonmotorsport.com)
 
 - 📫 How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
 
