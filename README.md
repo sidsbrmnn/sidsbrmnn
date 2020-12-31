@@ -1,4 +1,4 @@
-![Hello, friend](https://github.com/sidsbrmnn/sidsbrmnn/blob/master/hello_friend.gif)
+![Hello, friend](hello_friend.gif)
 
 ## Hey 👋, I'm [Siddharth](https://github.com/sidsbrmnn)
 
