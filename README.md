@@ -6,13 +6,13 @@ I'm Siddharth Subramanian, a full-stack developer currently pursuing BE in Infor
 
 ### What am I upto these days
 
-- 🔭 I'm currently working an [URL shortener](https://github.com/sidsbrmnn/url-shortener)
+-   🔭 I'm currently working an [URL shortener](https://github.com/sidsbrmnn/url-shortener)
 
-- 🌱 I'm learning [Golang](https://golang.org)
+-   🌱 I'm learning [Golang](https://golang.org)
 
-- 💻 My recent projects: [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://tachyonmotorsport.com)
+-   💻 My recent projects: [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://tachyonmotorsport.com)
 
-- 📫 How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
+-   📫 How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
 
 ### My GitHub Stats
 
