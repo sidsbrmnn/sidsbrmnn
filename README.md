@@ -10,13 +10,11 @@ Feel free to reach out if you want to collaborate on something or have an exciti
 
 ### What am I upto these days
 
--   🔭 I'm currently working migrating [Fest Management System](https://github.com/sidsbrmnn/fest-management-system) to Laravel (why? Because I never liked PHP from the very beginning but after trying Laravel, my senses have been dialed up. Oh, and I really need to come up with a better UI for it.)
-
--   🌱 I'm learning [Golang](https://golang.org) and [Laravel](https://laravel.com)
-
--   💻 My recent projects: [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://tachyonmotorsport.com)
-
--   📫 How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
+- :skull: I'm organising [Hackwell](https://www.jsshackwell.in) and trying to get through my final year xP
+- :telescope: I was working on migrating [Fest Management System](https://github.com/sidsbrmnn/fest-management-system) to Laravel (why? Because I never liked PHP from the very beginning but after trying Laravel, my senses have been dialed up. Oh, and I really need to come up with a better UI for it.) but have kept it on hold for now
+- :seedling: I'm learning [Golang](https://golang.org) and [Laravel](https://laravel.com)
+- :computer: My recent projects: [Hackwell](https://www.jsshackwell.in), [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://www.tachyonmotorsport.com)
+- :mailbox_closed: How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
 
 ### My GitHub Stats
 
