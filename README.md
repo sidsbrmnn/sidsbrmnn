@@ -1,20 +1,24 @@
-![Hello, friend](hello_friend.gif)
+## Hi there 👋
 
-## Hey 👋, I'm [Siddharth](https://github.com/sidsbrmnn)
+I'm Siddharth, a 22-year-old avid tech geek and a full stack engineer, based out
+of Bengaluru, India. I'm currently working on [Zmanda](https://www.zmanda.com),
+an enterprise backup and recovery solution, at
+[BETSOL](https://github.com/BetsolLLC) as a Full Stack Developer using React.js,
+Django and Docker.
 
-I'm Siddharth Subramanian, a _full-stack developer_ currently pursuing BE in Information Science and Engineering. I'd love to sit down and have a conversation on improving the user experience or even on a badass design (especially with coffee). It'd be a **crime** to say that I don't love problem-solving (considering how much I obsess over server-side scripting) but also a lot cliched if I say that I do. I can sit down to watch a test match (trust me, I wake up early morning for it). But no matter what, coding without some EDM is clearly not the right thing to do.
+### What am I upto lately
 
-I'm absolutely ok with having errors in my code, but definitely not formatting or linting warnings.
+- :telescope: -
+- :seedling: Trying to get my hands dirty with some Shell scripting.
+- :computer: Recent projects: [Hackwell 2.0](https://hackwell.vercel.app), 
+[Tachyon Motorsport](https://www.tachyonmotorsport.com),
+[Bolo Meet](https://bolomeet.com)
 
-Feel free to reach out if you want to collaborate on something or have an exciting idea. I'd absolutely love to be a part of it.
+### Looking to connect?
 
-### What am I upto these days
-
-- :skull: I'm organising [Hackwell](https://www.jsshackwell.in) and trying to get through my final year xP
-- :telescope: I was working on migrating [Fest Management System](https://github.com/sidsbrmnn/fest-management-system) to Laravel (why? Because I never liked PHP from the very beginning but after trying Laravel, my senses have been dialed up. Oh, and I really need to come up with a better UI for it.) but have kept it on hold for now
-- :seedling: I'm learning [Golang](https://golang.org) and [Laravel](https://laravel.com)
-- :computer: My recent projects: [Hackwell](https://www.jsshackwell.in), [Bolo Meet](https://bolomeet.com), [Tachyon Motorsport](https://www.tachyonmotorsport.com)
-- :mailbox_closed: How to reach out to me: [email](mailto:sidsbrmnn@gmail.com) [twitter](https://twitter.com/sidsbrmnn)
+If you have an idea or looking for contribute to some of my previous work, I'd
+love to sit and have a chat with you. Feel free to reach out to me via
+[email](mailto:sidsbrmnn@gmail.com) or [twitter](https://twitter.com/sidsbrmnn).
 
 ### My GitHub Stats
 
