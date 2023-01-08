@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Siddharth, a 22-year-old avid tech geek and a full stack engineer, based out
-of Bengaluru, India. I'm currently working on [Zmanda](https://www.zmanda.com),
-an enterprise backup and recovery solution, at
-[BETSOL](https://github.com/BetsolLLC) as a Full Stack Developer using React.js,
-Django and Docker.
+I'm Siddharth, a 23-year-old avid tech geek and a full stack engineer, based out
+of Bengaluru, India. I'm currently pursuing my Masters in Computer Science at
+Northern Arizona University. I previously worked on 
+[Zmanda](https://www.zmanda.com), an enterprise backup and recovery solution, at
+[BETSOL](https://github.com/BetsolLLC) as a Build/Release and DevOps Engineer.
 
 ### What am I upto lately?
 
