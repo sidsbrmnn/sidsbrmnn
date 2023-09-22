@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-I'm Siddharth, a 23-year-old avid tech geek and a full stack engineer, based out
-of Bengaluru, India. I'm currently pursuing my Masters in Computer Science at
+I'm Siddharth, a 24-year-old avid tech geek and a full stack engineer, based out
+of Flagstaff, Arizona. I'm currently pursuing my Masters in Computer Science at
 Northern Arizona University. I previously worked on 
 [Zmanda](https://www.zmanda.com), an enterprise backup and recovery solution, at
 [BETSOL](https://github.com/BetsolLLC) as a Build/Release and DevOps Engineer.
 
 ### What am I upto lately?
 
-- :telescope: -
+- :telescope: Exploring kernel dev with C and Assembly.
 - :seedling: Trying to get my hands dirty with some Shell scripting.
-- :computer: Recent projects: [Hackwell 2.0](https://hackwell.vercel.app), 
+- :computer: Recent projects: [HeyHomero]([https://](https://heyhomero.com)),
+[Hackwell 2.0](https://hackwell.vercel.app), 
 [Tachyon Motorsport](https://www.tachyonmotorsport.com),
 [Bolo Meet](https://bolomeet.com).
 
