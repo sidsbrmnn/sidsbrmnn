@@ -10,7 +10,7 @@ Northern Arizona University. I previously worked on
 
 - :telescope: Exploring kernel dev with C and Assembly.
 - :seedling: Trying to get my hands dirty with some Shell scripting.
-- :computer: Recent projects: [HeyHomero]([https://](https://heyhomero.com)),
+- :computer: Recent projects: [HeyHomero](https://heyhomero.com),
 [Hackwell 2.0](https://hackwell.vercel.app), 
 [Tachyon Motorsport](https://www.tachyonmotorsport.com),
 [Bolo Meet](https://bolomeet.com).
