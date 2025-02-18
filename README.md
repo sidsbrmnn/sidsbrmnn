@@ -1,22 +1,11 @@
-## Hi there 👋
+# Hi there, I'm Siddharth 👋
 
-I'm Siddharth, a 25-year-old avid tech geek and a full stack engineer, based out
-of Flagstaff, Arizona. I'm currently pursuing my Masters in Computer Science at
-Northern Arizona University. I previously worked on 
-[Zmanda](https://www.zmanda.com), an enterprise backup and recovery solution, at
-[BETSOL](https://github.com/BetsolLLC) as a Build/Release and DevOps Engineer.
+I'm a Full Stack Engineer based in Flagstaff, Arizona, with a strong passion for building scalable, high-performance applications. I recently earned my Master of Science in Computer Science from Northern Arizona University in December 2024. My academic journey focused on large-scale data structures, high-performance computing, and open-source software development. My thesis explored the impact of software architecture when integrating Generative AI in Unity-based games.
 
-### What am I upto lately?
+Previously, I worked as an Associate Software Engineer at [BETSOL](https://www.betsol.com), where I focused on full stack development, Linux package management, and DevOps for [Zmanda](https://www.zmanda.com), an enterprise backup and recovery solution. My role involved optimizing CI/CD pipelines, enhancing TLS security, and improving system efficiency. Beyond my professional work, I actively maintain open-source projects, including [ScrollSpy](https://www.npmjs.com/package/scrollspy) and [JWT Decode](https://pub.dev/packages/jwt_decode), both of which have been widely adopted by developers worldwide.
 
-- :telescope: Researching on integrating Gen AI in Game Development in Unity.
-- :computer: Recent projects: [Homero](https://heyhomero.com),
-[Hackwell 2.0](https://hackwell.vercel.app), 
-[Tachyon Motorsport](https://tachyonmotorsport.vercel.app),
-[Bolo Meet](https://bolomeet.com).
+Currently, I'm exploring new opportunities and projects, particularly in full stack or backend engineering. Some of my recent work includes contributions to [Homero](https://heyhomero.com), [Hackwell](https://hackwell.vercel.app), and [Tachyon Motorsport](https://tachyonmotorsport.vercel.app). I'm always excited to collaborate on innovative projects that push the boundaries of technology.
 
-### Looking to connect?
+## Looking to connect?
 
-If you have an idea for a new project or you are looking for contribute to some
-of my previous work, I'd love to sit and have a chat with you. Feel free to
-reach out to me via [email](mailto:sidsbrmnn@gmail.com) or
-[twitter](https://twitter.com/sidsbrmnn).
+Connect with me on [X](https://x.com/sidsbrmnn) or [LinkedIn](https://www.linkedin.com/in/sidsbrmnn). Let’s build something amazing together! 🚀
